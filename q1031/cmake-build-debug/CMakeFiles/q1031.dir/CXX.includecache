@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/for_acm_2018/dynamic/lightoj/q1031/main.cpp
+iostream
+-
+deque
+-
+bits/stdc++.h
+-
+

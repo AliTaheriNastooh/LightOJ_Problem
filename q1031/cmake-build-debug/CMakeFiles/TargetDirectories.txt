@@ -1,0 +1,3 @@
+G:/for_acm_2018/dynamic/lightoj/q1031/cmake-build-debug/CMakeFiles/q1031.dir
+G:/for_acm_2018/dynamic/lightoj/q1031/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/for_acm_2018/dynamic/lightoj/q1031/cmake-build-debug/CMakeFiles/rebuild_cache.dir

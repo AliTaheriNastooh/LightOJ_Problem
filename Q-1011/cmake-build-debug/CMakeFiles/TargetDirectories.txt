@@ -1,0 +1,3 @@
+G:/for_acm_2018/lighoj/Q-1011/cmake-build-debug/CMakeFiles/Q_1011.dir
+G:/for_acm_2018/lighoj/Q-1011/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/for_acm_2018/lighoj/Q-1011/cmake-build-debug/CMakeFiles/rebuild_cache.dir

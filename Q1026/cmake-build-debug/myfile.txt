@@ -1,0 +1,16 @@
+Case 1:
+2 critical links
+0 - 1
+0 - 2
+Case 2:
+4 critical links
+0 - 4
+2 - 5
+3 - 5
+4 - 5
+Case 3:
+4 critical links
+0 - 2
+0 - 4
+2 - 5
+3 - 4
